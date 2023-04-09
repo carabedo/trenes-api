@@ -11,3 +11,5 @@ export default {
   ],
   cacheFileName: 'token.dat',
 };
+
+// archivo con cifrado del token que se guarda en token.dat
