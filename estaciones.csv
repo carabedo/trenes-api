@@ -1,0 +1,380 @@
+estacion_nombre,estacion_id,lat,lon,ramal,ramal_id
+la plata,217,-34.90457,-57.9491442,universitario,39
+arquitectura,25,-34.9047984,-57.9427394,universitario,39
+informática,179,-34.9036359,-57.9351666,universitario,39
+medicina,267,-34.9089309,-57.9280071,universitario,39
+periodismo,304,-34.9120616,-57.9243977,universitario,39
+diagonal 73,113,-34.9183777,-57.9194671,universitario,39
+policlínico,311,-34.9253053,-57.9213044,universitario,39
+avenida 7,5976,-34.9045869,-57.9338503,universitario,39
+circunvalación,5977,-34.9266524,-57.9227584,universitario,39
+meridiano v,5978,-34.9360182,-57.9330299,universitario,39
+calle 25,5979,-34.9415039,-57.939046,universitario,39
+maipú,248,-34.5130886,-58.487579,tren de la costa,41
+borges,42,-34.5081513,-58.4845536,tren de la costa,41
+libertador,233,-34.5027276,-58.4821262,tren de la costa,41
+juan anchorena,198,-34.4891115,-58.4812172,tren de la costa,41
+las barrancas,222,-34.4722137,-58.4934212,tren de la costa,41
+san isidro r,358,-34.4654466,-58.5081309,tren de la costa,41
+punta chica,319,-34.4506585,-58.5236988,tren de la costa,41
+marina nueva,258,-34.4445522,-58.5390515,tren de la costa,41
+san fernando r,356,-34.4375367,-58.553991,tren de la costa,41
+canal san fernando,58,-34.4299116,-58.5629211,tren de la costa,41
+delta,104,-34.419003,-58.5761953,tren de la costa,41
+moreno,278,-34.6504898,-58.7898007,mercedes,51
+la reja,218,-34.6391388,-58.8305241,mercedes,51
+f. álvarez,134,-34.6316288,-58.8573859,mercedes,51
+p. marín,310,-34.6222444,-58.8956413,mercedes,51
+las malvinas,226,-34.616121,-58.9218744,mercedes,51
+gral. rodríguez,163,-34.6083812,-58.955023,mercedes,51
+la fraternidad,210,-34.5979098,-58.9999426,mercedes,51
+lezica y torrezuri,231,-34.5841144,-59.0588828,mercedes,51
+univ. luján,401,-34.5769271,-59.0895022,mercedes,51
+luján,247,-34.5778238,-59.1054958,mercedes,51
+jáuregui,188,-34.6013027,-59.1755069,mercedes,51
+olivera,290,-34.6286035,-59.2574204,mercedes,51
+gowland,155,-34.6482561,-59.354958,mercedes,51
+mercedes,268,-34.6576249,-59.4328081,mercedes,51
+merlo,269,-34.6645035,-58.7280753,lobos,53
+"km. 34,5",464,-34.6801742,-58.7602409,lobos,53
+ferrari,137,-34.706078,-58.7794327,lobos,53
+mariano acosta,257,-34.7243253,-58.7929542,lobos,53
+marcos paz,254,-34.7830555,-58.836545,lobos,53
+zamudio,432,-34.8578991,-58.8921946,lobos,53
+hornos,173,-34.8923029,-58.917861,lobos,53
+las heras,225,-34.9279395,-58.9444298,lobos,53
+speratti,381,-35.0021051,-58.9998545,lobos,53
+zapiola,433,-35.0583029,-59.0418857,lobos,53
+empalme lobos,129,-35.1514876,-59.0907406,lobos,53
+lobos,237,-35.1846602,-59.0927953,lobos,53
+retiro - san martín,463,-34.5884031,-58.3751245,cabred,65
+palermo,297,-34.5790601,-58.4269353,cabred,65
+villa crespo,414,-34.5926748,-58.4468454,cabred,65
+la paternal,216,-34.5969831,-58.467118,cabred,65
+v. parque,415,-34.6013699,-58.4935315,cabred,65
+devoto,112,-34.6026515,-58.5124313,cabred,65
+sáenz peña,348,-34.6031533,-58.5274629,cabred,65
+santos lugares,369,-34.6036745,-58.5407521,cabred,65
+caseros,67,-34.6045943,-58.5647095,cabred,65
+el palomar,127,-34.604924,-58.5958736,cabred,65
+hurlingham,177,-34.5911517,-58.6322349,cabred,65
+william morris,431,-34.5784645,-58.6565796,cabred,65
+bella vista,36,-34.5638352,-58.6845919,cabred,65
+muñiz,283,-34.5513662,-58.7033147,cabred,65
+san miguel,361,-34.5431069,-58.7150571,cabred,65
+josé c. paz,194,-34.5193436,-58.7494301,cabred,65
+sol y verde,378,-34.5039897,-58.7976033,cabred,65
+derqui,106,-34.4910185,-58.8382424,cabred,65
+villa astolfi,411,-34.4786824,-58.8768343,cabred,65
+pilar,306,-34.4687433,-58.9079062,cabred,65
+manzanares,252,-34.4522459,-59.0067549,cabred,65
+cabred,51,-34.4880154,-59.0760274,cabred,65
+temperley,386,-34.7757442,-58.3963762,haedo,27
+h. español,174,-34.7862792,-58.4072878,haedo,27
+s. catalina,365,-34.7804203,-58.4373374,haedo,27
+juan xxiii,201,-34.7713636,-58.4441098,haedo,27
+km 34,205,-34.7434594,-58.465016,haedo,27
+p. turner,314,-34.7332318,-58.4748755,haedo,27
+a. de elía,9,-34.7099772,-58.5059186,haedo,27
+tablada,383,-34.6930707,-58.5280209,haedo,27
+san justo,359,-34.6741934,-58.555356,haedo,27
+ing. s. brian,182,-34.6580457,-58.5730377,haedo,27
+haedo,169,-34.6445334,-58.5918534,haedo,27
+villa ballester,412,-34.5511617,-58.5558262,zarate,35
+bancalari,29,-34.4800142,-58.6027049,zarate,35
+pacheco,296,-34.4560752,-58.6197265,zarate,35
+benavídez,37,-34.4094211,-58.684383,zarate,35
+maschwitz,263,-34.3831964,-58.7358223,zarate,35
+escobar,130,-34.3496708,-58.7949883,zarate,35
+rio lujan,335,-34.2782318,-58.8903035,zarate,35
+otamendi,294,-34.222589,-58.896469,zarate,35
+campana,55,-34.1566103,-58.960517,zarate,35
+kilometro 83,204,-34.1600392,-58.976718,zarate,35
+zárate,434,-34.0982173,-59.0375248,zarate,35
+temperley,386,-34.7757442,-58.3963762,cañuelas,37
+turdera,399,-34.7950313,-58.4076612,cañuelas,37
+llavallol,235,-34.7970556,-58.4289377,cañuelas,37
+l. guillón,246,-34.8031197,-58.4483669,cañuelas,37
+m. grande,277,-34.8143356,-58.469516,cañuelas,37
+el jagüel,125,-34.8331027,-58.4960071,cañuelas,37
+ezeiza,132,-34.8539606,-58.5226554,cañuelas,37
+u. ferroviaria,400,-34.8701194,-58.5432637,cañuelas,37
+t. suárez,396,-34.8892028,-58.5677383,cañuelas,37
+c. spegazzini,64,-34.9099069,-58.5942645,cañuelas,37
+m. paz,265,-34.9362878,-58.6205451,cañuelas,37
+v. casares,407,-34.9621814,-58.647847,cañuelas,37
+a. petión,14,-34.9775385,-58.6743571,cañuelas,37
+a. kloosterman,21,-34.9863555,-58.6895825,cañuelas,37
+r. levene,333,-35.0216179,-58.7237738,cañuelas,37
+cañuelas,60,-35.0592254,-58.7541775,cañuelas,37
+victoria,409,-34.4566375,-58.5417856,capilla del señor,33
+dr. a. schweitzer,118,-34.4720989,-58.5744514,capilla del señor,33
+el talar,128,-34.4627922,-58.6460044,capilla del señor,33
+lópez camelo,240,-34.4468958,-58.6773897,capilla del señor,33
+garín,147,-34.421623,-58.7365407,capilla del señor,33
+maq. savio,253,-34.4067502,-58.7723202,capilla del señor,33
+matheu,264,-34.3828607,-58.8296505,capilla del señor,33
+zelaya,436,-34.3703514,-58.8683114,capilla del señor,33
+los cardales,243,-34.330977,-58.9872035,capilla del señor,33
+capilla del señor,61,-34.2866198,-59.1021904,capilla del señor,33
+plaza c.,93,-34.62863,-58.38025,alejandro korn,17
+h. yrigoyen,172,-34.6536422,-58.3788878,alejandro korn,17
+s y kosteki,368,-34.6613896,-58.3768325,alejandro korn,17
+gerli,151,-34.6857287,-58.3826371,alejandro korn,17
+lanús,215,-34.7074543,-58.390637,alejandro korn,17
+r. escalada,329,-34.7270922,-58.393661,alejandro korn,17
+banfield,30,-34.7436106,-58.3954246,alejandro korn,17
+l. zamora,238,-34.7610318,-58.3973127,alejandro korn,17
+temperley,386,-34.7757442,-58.3963762,alejandro korn,17
+adrogué,8,-34.7978483,-58.3942737,alejandro korn,17
+burzaco,49,-34.8251482,-58.3913722,alejandro korn,17
+longchamps,239,-34.8595879,-58.3871987,alejandro korn,17
+glew,152,-34.8886501,-58.3837029,alejandro korn,17
+guernica,165,-34.9179155,-58.3805605,alejandro korn,17
+alejandro korn,13,-34.9814875,-58.3736944,alejandro korn,17
+buenos aires,48,-34.6455629,-58.3939958,gonzalez catán,25
+dr. sáenz v.,525,-34.6490835,-58.4158387,gonzalez catán,25
+villa soldati,427,-34.6622014,-58.4408973,gonzalez catán,25
+presidente illia,313,-34.6661376,-58.4502223,gonzalez catán,25
+villa lugano,422,-34.67713,-58.4769699,gonzalez catán,25
+villa madero,424,-34.6840978,-58.4925366,gonzalez catán,25
+marinos del fournier,260,-34.6901777,-58.5076299,gonzalez catán,25
+tapiales,385,-34.7025293,-58.5115373,gonzalez catán,25
+ing. castello,181,-34.7105416,-58.5063521,gonzalez catán,25
+querandí,321,-34.7223687,-58.5307279,gonzalez catán,25
+laferrere,209,-34.7506533,-58.58425,gonzalez catán,25
+maría eva duarte,256,-34.7564804,-58.6020446,gonzalez catán,25
+independencia,178,-34.7607983,-58.6173412,gonzalez catán,25
+gonzález catán,154,-34.7717022,-58.6468732,gonzalez catán,25
+once,293,-34.6086496,-58.4088675,moreno,1
+caballito,50,-34.6192442,-58.4436522,moreno,1
+flores,139,-34.6278504,-58.4661766,moreno,1
+floresta,140,-34.6323755,-58.4808913,moreno,1
+villa luro,423,-34.6362494,-58.5021311,moreno,1
+liniers,234,-34.6388728,-58.5263409,moreno,1
+ciudadela,84,-34.6399227,-58.5411225,moreno,1
+ramos mejía,327,-34.6404544,-58.5643758,moreno,1
+haedo,169,-34.6445334,-58.5918534,moreno,1
+morón,279,-34.6482227,-58.6198135,moreno,1
+castelar,70,-34.6521562,-58.6425261,moreno,1
+ituzaingó,186,-34.659522,-58.6659795,moreno,1
+s.a. de padua,347,-34.6654259,-58.6979972,moreno,1
+merlo,269,-34.6645035,-58.7280753,moreno,1
+paso del rey,300,-34.6582665,-58.7619414,moreno,1
+moreno,278,-34.6504898,-58.7898007,moreno,1
+retiro - mitre,332,-34.5899757,-58.376129,tigre,5
+l. de la torre,229,-34.5625299,-58.4367116,tigre,5
+belgrano c,34,-34.5588016,-58.4489445,tigre,5
+núñez,287,-34.5482911,-58.4628516,tigre,5
+rivadavia,337,-34.5365204,-58.4680326,tigre,5
+vicente lópez,408,-34.5247233,-58.4728065,tigre,5
+olivos,291,-34.5077139,-58.4806636,tigre,5
+la lucila,212,-34.4975978,-58.4884466,tigre,5
+martínez,262,-34.4885346,-58.4965804,tigre,5
+acassuso,5,-34.4800686,-58.5038385,tigre,5
+san isidro c,357,-34.4722074,-58.5133831,tigre,5
+béccar,32,-34.4608043,-58.5265437,tigre,5
+victoria,409,-34.4566375,-58.5417856,tigre,5
+virreyes,428,-34.4506827,-58.5507001,tigre,5
+san fernando c,355,-34.4443381,-58.5587407,tigre,5
+carupá,65,-34.4375361,-58.5674401,tigre,5
+tigre,389,-34.423567,-58.5817289,tigre,5
+plaza c.,93,-34.62863,-58.38025,la plata,11
+s y kosteki,368,-34.6613896,-58.3768325,la plata,11
+sarandí,370,-34.6787475,-58.3449626,la plata,11
+v. domínico,418,-34.6915355,-58.3253499,la plata,11
+wilde,430,-34.6975894,-58.3111938,la plata,11
+don bosco,115,-34.7033242,-58.2961718,la plata,11
+bernal,39,-34.7092611,-58.280569,la plata,11
+quilmes,322,-34.7246461,-58.2606591,la plata,11
+ezpeleta,133,-34.7518509,-58.2341863,la plata,11
+berazategui,38,-34.7640977,-58.2084433,la plata,11
+plátanos,309,-34.7823359,-58.1707596,la plata,11
+hudson,176,-34.7911192,-58.1552692,la plata,11
+pereyra,303,-34.8366304,-58.0945403,la plata,11
+v. elisa,419,-34.8495861,-58.0751851,la plata,11
+city bell,83,-34.8657239,-58.0420495,la plata,11
+gonnet,153,-34.879841,-58.0107856,la plata,11
+ringuelet,334,-34.8813876,-57.9960622,la plata,11
+tolosa,392,-34.8909547,-57.9680983,la plata,11
+la plata,217,-34.90457,-57.9491442,la plata,11
+buenos aires,48,-34.6455629,-58.3939958,m.c.g. belgrano,21
+dr. sáenz p.,121,-34.6481153,-58.4199555,m.c.g. belgrano,21
+villa soldati,427,-34.6622014,-58.4408973,m.c.g. belgrano,21
+presidente illia,313,-34.6661376,-58.4502223,m.c.g. belgrano,21
+villa lugano,422,-34.67713,-58.4769699,m.c.g. belgrano,21
+villa madero,424,-34.6840978,-58.4925366,m.c.g. belgrano,21
+marinos del fournier,260,-34.6901777,-58.5076299,m.c.g. belgrano,21
+tapiales,385,-34.7025293,-58.5115373,m.c.g. belgrano,21
+aldo bonzi,12,-34.7111965,-58.5160229,m.c.g. belgrano,21
+sánchez de mendeville,354,-34.7124277,-58.5240921,m.c.g. belgrano,21
+josé ingenieros,195,-34.7107886,-58.5370402,m.c.g. belgrano,21
+justo villegas,203,-34.7089919,-58.5517232,m.c.g. belgrano,21
+isidro casanova,184,-34.7045467,-58.5873422,m.c.g. belgrano,21
+rafael castillo,325,-34.6996678,-58.6264089,m.c.g. belgrano,21
+merlo gómez,270,-34.6969888,-58.6477766,m.c.g. belgrano,21
+libertad,232,-34.6921165,-58.6866182,m.c.g. belgrano,21
+m. c. g. belgrano,259,-34.7092703,-58.7320511,m.c.g. belgrano,21
+retiro - mitre,332,-34.5899757,-58.376129,j. l. suárez,9
+3 de febrero,1,-34.5717485,-58.4249824,j. l. suárez,9
+ministro carranza,272,-34.575705,-58.435404,j. l. suárez,9
+colegiales,91,-34.5729746,-58.448253,j. l. suárez,9
+belgrano r,35,-34.5680506,-58.4618081,j. l. suárez,9
+l. m. drago,236,-34.5684173,-58.4789912,j. l. suárez,9
+gral. urquiza,150,-34.574712,-58.4878391,j. l. suárez,9
+pueyrredón,318,-34.5804962,-58.501898,j. l. suárez,9
+miguelete,271,-34.5813405,-58.514046,j. l. suárez,9
+san martín,360,-34.5734195,-58.5319579,j. l. suárez,9
+san andrés,353,-34.5635642,-58.5406609,j. l. suárez,9
+malaver,249,-34.5573725,-58.5479328,j. l. suárez,9
+villa ballester,412,-34.5511617,-58.5558262,j. l. suárez,9
+chilavert,79,-34.542232,-58.566917,j. l. suárez,9
+j. l. suarez,190,-34.5347067,-58.5759809,j. l. suárez,9
+plaza c.,93,-34.62863,-58.38025,ezeiza,19
+h. yrigoyen,172,-34.6536422,-58.3788878,ezeiza,19
+s y kosteki,368,-34.6613896,-58.3768325,ezeiza,19
+gerli,151,-34.6857287,-58.3826371,ezeiza,19
+lanús,215,-34.7074543,-58.390637,ezeiza,19
+r. escalada,329,-34.7270922,-58.393661,ezeiza,19
+banfield,30,-34.7436106,-58.3954246,ezeiza,19
+l. zamora,238,-34.7610318,-58.3973127,ezeiza,19
+temperley,386,-34.7757442,-58.3963762,ezeiza,19
+turdera,399,-34.7950313,-58.4076612,ezeiza,19
+llavallol,235,-34.7970556,-58.4289377,ezeiza,19
+l. guillón,246,-34.8031197,-58.4483669,ezeiza,19
+m. grande,277,-34.8143356,-58.469516,ezeiza,19
+el jagüel,125,-34.8331027,-58.4960071,ezeiza,19
+ezeiza,132,-34.8539606,-58.5226554,ezeiza,19
+puente alsina,315,-34.6614611,-58.414587,apeadero km 12,63
+villa diamante,417,-34.6817442,-58.4283297,apeadero km 12,63
+villa caraza,413,-34.6980032,-58.4290641,apeadero km 12,63
+villa fiorito,421,-34.7053789,-58.4409217,apeadero km 12,63
+ing. budge,180,-34.7186633,-58.4621518,apeadero km 12,63
+la salada,220,-34.7188075,-58.4727139,apeadero km 12,63
+apeadero km. 12,22,-34.7100582,-58.5059269,apeadero km 12,63
+aldo bonzi,12,-34.7111965,-58.5160229,apeadero km 12,63
+sánchez de mendeville,354,-34.7124277,-58.5240921,apeadero km 12,63
+josé ingenieros,195,-34.7107886,-58.5370402,apeadero km 12,63
+justo villegas,203,-34.7089919,-58.5517232,apeadero km 12,63
+isidro casanova,184,-34.7045467,-58.5873422,apeadero km 12,63
+rafael castillo,325,-34.6996678,-58.6264089,apeadero km 12,63
+merlo gómez,270,-34.6969888,-58.6477766,apeadero km 12,63
+libertad,232,-34.6921165,-58.6866182,apeadero km 12,63
+m. c. g. belgrano,259,-34.7092703,-58.7320511,apeadero km 12,63
+retiro - mitre,332,-34.5899757,-58.376129,mitre,7
+3 de febrero,1,-34.5717485,-58.4249824,mitre,7
+ministro carranza,272,-34.575705,-58.435404,mitre,7
+colegiales,91,-34.5729746,-58.448253,mitre,7
+belgrano r,35,-34.5680506,-58.4618081,mitre,7
+coghlan,90,-34.5652607,-58.4753485,mitre,7
+saavedra,346,-34.5540735,-58.4870632,mitre,7
+juan b. justo,200,-34.5425501,-58.494657,mitre,7
+florida,141,-34.5371318,-58.5131523,mitre,7
+dr. cetrángolo,119,-34.5230887,-58.49413,mitre,7
+mitre,273,-34.5154718,-58.4896092,mitre,7
+plaza c.,93,-34.62863,-58.38025,bosques-t,15
+h. yrigoyen,172,-34.6536422,-58.3788878,bosques-t,15
+s y kosteki,368,-34.6613896,-58.3768325,bosques-t,15
+gerli,151,-34.6857287,-58.3826371,bosques-t,15
+lanús,215,-34.7074543,-58.390637,bosques-t,15
+r. escalada,329,-34.7270922,-58.393661,bosques-t,15
+banfield,30,-34.7436106,-58.3954246,bosques-t,15
+l. zamora,238,-34.7610318,-58.3973127,bosques-t,15
+temperley,386,-34.7757442,-58.3963762,bosques-t,15
+j. mármol,197,-34.7919121,-58.3811522,bosques-t,15
+r. calzada,324,-34.7966279,-58.3593839,bosques-t,15
+claypole,85,-34.8011345,-58.3384482,bosques-t,15
+d. ardigó,102,-34.808388,-58.3048296,bosques-t,15
+f. varela,138,-34.8111227,-58.2742679,bosques-t,15
+zeballos,435,-34.8106377,-58.2594167,bosques-t,15
+bosques,43,-34.8195678,-58.2301645,bosques-t,15
+gonzález catán,154,-34.7717022,-58.6468732,marcos paz,67
+20 de junio,526,-34.7801716,-58.7345619,marcos paz,67
+marcos paz,3700,-34.7842107,-58.8278964,marcos paz,67
+plaza c.,93,-34.62863,-58.38025,bosques-q,13
+s y kosteki,368,-34.6613896,-58.3768325,bosques-q,13
+sarandí,370,-34.6787475,-58.3449626,bosques-q,13
+v. domínico,418,-34.6915355,-58.3253499,bosques-q,13
+wilde,430,-34.6975894,-58.3111938,bosques-q,13
+don bosco,115,-34.7033242,-58.2961718,bosques-q,13
+bernal,39,-34.7092611,-58.280569,bosques-q,13
+quilmes,322,-34.7246461,-58.2606591,bosques-q,13
+ezpeleta,133,-34.7518509,-58.2341863,bosques-q,13
+berazategui,38,-34.7640977,-58.2084433,bosques-q,13
+v. españa,420,-34.7744501,-58.1949303,bosques-q,13
+ranelagh,328,-34.7893721,-58.2031929,bosques-q,13
+sourigues,380,-34.8065811,-58.2127388,bosques-q,13
+bosques,43,-34.8195678,-58.2301645,bosques-q,13
+plaza c.,93,-34.62863,-58.38025,cañuelas esp,43
+h. yrigoyen,172,-34.6536422,-58.3788878,cañuelas esp,43
+s y kosteki,368,-34.6613896,-58.3768325,cañuelas esp,43
+gerli,151,-34.6857287,-58.3826371,cañuelas esp,43
+lanús,215,-34.7074543,-58.390637,cañuelas esp,43
+r. escalada,329,-34.7270922,-58.393661,cañuelas esp,43
+banfield,30,-34.7436106,-58.3954246,cañuelas esp,43
+l. zamora,238,-34.7610318,-58.3973127,cañuelas esp,43
+temperley,386,-34.7757442,-58.3963762,cañuelas esp,43
+turdera,399,-34.7950313,-58.4076612,cañuelas esp,43
+llavallol,235,-34.7970556,-58.4289377,cañuelas esp,43
+l. guillón,246,-34.8031197,-58.4483669,cañuelas esp,43
+m. grande,277,-34.8143356,-58.469516,cañuelas esp,43
+el jagüel,125,-34.8331027,-58.4960071,cañuelas esp,43
+ezeiza,132,-34.8539606,-58.5226554,cañuelas esp,43
+u. ferroviaria,400,-34.8701194,-58.5432637,cañuelas esp,43
+t. suárez,396,-34.8892028,-58.5677383,cañuelas esp,43
+c. spegazzini,64,-34.9099069,-58.5942645,cañuelas esp,43
+m. paz,265,-34.9362878,-58.6205451,cañuelas esp,43
+v. casares,407,-34.9621814,-58.647847,cañuelas esp,43
+a. petión,14,-34.9775385,-58.6743571,cañuelas esp,43
+a. kloosterman,21,-34.9863555,-58.6895825,cañuelas esp,43
+r. levene,333,-35.0216179,-58.7237738,cañuelas esp,43
+cañuelas,60,-35.0592254,-58.7541775,cañuelas esp,43
+temperley,386,-34.7757442,-58.3963762,gutiérrez,29
+j. mármol,197,-34.7919121,-58.3811522,gutiérrez,29
+r. calzada,324,-34.7966279,-58.3593839,gutiérrez,29
+claypole,85,-34.8011345,-58.3384482,gutiérrez,29
+d. ardigó,102,-34.808388,-58.3048296,gutiérrez,29
+f. varela,138,-34.8111227,-58.2742679,gutiérrez,29
+zeballos,435,-34.8106377,-58.2594167,gutiérrez,29
+bosques,43,-34.8195678,-58.2301645,gutiérrez,29
+s. sofia,367,-34.8250279,-58.2132652,gutiérrez,29
+gutiérrez,168,-34.8340643,-58.1853818,gutiérrez,29
+plaza c.,93,-34.62863,-58.38025,chascomús,57
+temperley,386,-34.7757442,-58.3963762,chascomús,57
+alejandro korn,13,-34.9814875,-58.3736944,chascomús,57
+domselaar,117,-35.0705791,-58.2901819,chascomús,57
+cnel. brandsen,86,-35.1677373,-58.2320146,chascomús,57
+jeppener,189,-35.2776676,-58.1982603,chascomús,57
+altamirano,17,-35.3621202,-58.1505922,chascomús,57
+gándara,146,-35.4497875,-58.0937313,chascomús,57
+chascomús,78,-35.5790842,-57.9823866,chascomús,57
+adela,6,-35.6839055,-57.9539789,chascomús,57
+monasterio,275,-35.7637431,-57.9250604,chascomús,57
+lezama,230,-35.8738929,-57.8954007,chascomús,57
+plaza c.,93,-34.62863,-58.38025,monte,49
+s y kosteki,368,-34.6613896,-58.3768325,monte,49
+r. escalada,329,-34.7270922,-58.393661,monte,49
+temperley,386,-34.7757442,-58.3963762,monte,49
+llavallol,235,-34.7970556,-58.4289377,monte,49
+ezeiza,132,-34.8539606,-58.5226554,monte,49
+t. suárez,396,-34.8892028,-58.5677383,monte,49
+c. spegazzini,64,-34.9099069,-58.5942645,monte,49
+v. casares,407,-34.9621814,-58.647847,monte,49
+r. levene,333,-35.0216179,-58.7237738,monte,49
+cañuelas,60,-35.0592254,-58.7541775,monte,49
+la noria,214,-35.1651382,-58.7881853,monte,49
+abbot,3,-35.2814201,-58.8029392,monte,49
+monte,276,-35.4366533,-58.8176656,monte,49
+plaza c.,93,-34.62863,-58.38025,lobos,55
+s y kosteki,368,-34.6613896,-58.3768325,lobos,55
+r. escalada,329,-34.7270922,-58.393661,lobos,55
+temperley,386,-34.7757442,-58.3963762,lobos,55
+llavallol,235,-34.7970556,-58.4289377,lobos,55
+ezeiza,132,-34.8539606,-58.5226554,lobos,55
+t. suárez,396,-34.8892028,-58.5677383,lobos,55
+v. casares,407,-34.9621814,-58.647847,lobos,55
+r. levene,333,-35.0216179,-58.7237738,lobos,55
+cañuelas,60,-35.0592254,-58.7541775,lobos,55
+uribelarrea,402,-35.1154841,-58.8984676,lobos,55
+empalme lobos,129,-35.1514876,-59.0907406,lobos,55
+lobos,237,-35.1846602,-59.0927953,lobos,55
